@@ -25,6 +25,8 @@ if (TimeRn == Time_of_join):
     pyautogui.press("Enter")
     time.sleep(6)
     pyautogui.press("Enter")
+    
+# Made By Ritankar
 
     
     
