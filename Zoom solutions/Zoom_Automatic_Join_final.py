@@ -14,7 +14,7 @@ while (Time_of_join != TimeRn):
 
 if (TimeRn == Time_of_join):
     print("Here we go")
-    webbrowser.open("C:\\Users\\RITANKAR\\AppData\\Roaming\\Zoom\\bin\\Zoom.exe")
+    webbrowser.open("Put tHe path of your Zoom App ")
     time.sleep(13)
     pyautogui.press("Enter")
     time.sleep(4)
